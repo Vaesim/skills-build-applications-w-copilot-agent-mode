@@ -1,3 +1,6 @@
-django
+# Requisitos para el backend de OctoFit Tracker
+# Basado en la estructura de Monafit Tracker
+
+Django==4.1
 djangorestframework
 pymongo
